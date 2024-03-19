@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mai (Lina)
+- 👋 Hi, I’m Mai (Lena)
 - 😄 This repository is for my learning and my practical project
 - 👀 I’m a data enthusiast with hands-on experience in leveraging data insights to steer business performance and process improvement for organisations
 - 🌱 I just finished my Master degree of IT with a major in data analytics
